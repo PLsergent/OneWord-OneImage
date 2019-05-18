@@ -4,6 +4,7 @@ Video editing app to create music video clips.
 ## Idea
 
 Create an app that take as inputs audio and lyrics of a song and returns a video clip of the music with an image for each word of the song.
+[Here is the video](https://www.youtube.com/watch?v=FnWK2qG7Mas) that has inspire me.
 
 ## Tools
 
