@@ -1,5 +1,5 @@
 # OneWord-OneImage
-Video editing app to create music videos.
+Video editing app to create music video clips.
 
 ## Idea
 
